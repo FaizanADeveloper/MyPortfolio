@@ -1,0 +1,88 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.background {
+    background-color: #F9F7F7;
+}
+
+.navbar-text {
+    font-family: "Poppins", sans-serif;
+    color: #3F72AF;
+    font-style: normal;
+    font-weight: 500;
+}
+
+#head-text {
+    font-family: "Akzidenz-Grotesk", "Akzidenz-Grotesk", Akzidenz-Grotesk, serif;
+    font-style: italic;
+    font-size: 5rem;
+    color: #3F72AF !important;
+}
+
+#head-text {
+    animation: fadeInUp 1s ease-in-out;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.icon-square img {
+    height: 40px;
+}
+
+.testimonial-head {
+    color: #3F72AF;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.testimonial-headings {
+    color: #3F72AF !important;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    
+}
+
+.minor-heading {
+    color: #3F72AF;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: xx-large; 
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #292929;
+  border-radius: 50%;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #292929; 
+}
+
+.contact-msg {
+    color: #57564F;
+}
+
+.contact-handles {
+    color: #57564F;
+}
+
+.contact-icon {
+    color: #57564F;
+    transition: transform 0.3s ease, background 0.3s ease;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.contact-icon:hover {
+    transform: scale(1.2);
+}
+
+
+
